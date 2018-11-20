@@ -1,0 +1,6 @@
+psvm		快速创建main方法
+sout		创建输出语句
+fori		for循环
+ctrl+x		删除行
+ctrl+alt+↓	复制上一行
+Ctrl + N    	根据输入的 类名 查找类文件 （必备）
